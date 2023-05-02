@@ -1,0 +1,35 @@
+{
+  "phone": "28673951",
+  "address" : "HK",
+  "products": [
+    {
+     "name" : "apple",
+     "price": "2",
+     "origin": "China"
+  },
+  {
+    "name": "pork",
+    "price": "20",
+    "origin": "Brazil"
+  },
+  {
+    "name" : "ketchup",
+    "price": "10",
+    "origin": "USA"
+  }
+  ]
+}
+
+//java class
+public class product{
+  String name;
+  int price;
+  String origin;
+}
+
+public class supermarket{
+    String phone;
+    String address;
+    Product product;
+    List<Product> product;
+}

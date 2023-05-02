@@ -1,0 +1,15 @@
+{
+  "name": "john",
+  "address": [
+    {
+      "addr1" : "ABC",
+      "addr2" : "ABCD",
+      "city" : "HONG KONG"
+    },
+    {
+      "addr1" : "XYZ",
+      "addr2" : "ABCD",
+      "city" : "HONG KONG"
+    }
+  ]
+}
