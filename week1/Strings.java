@@ -104,3 +104,4 @@ Float float2 = new Float((float)10.98);
   Character char3 = new Character('a');
    Character c2 = 'a'; //autoboxing
   }
+}

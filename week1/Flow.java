@@ -34,7 +34,7 @@ public class Flow {
 }
   }
 
-  boolean o = false; {}
+  boolean o = false; {
   if (o == false) {
     System.out.println("hello");
   }
@@ -44,7 +44,7 @@ public class Flow {
     System.out.println("No");}
     }
     int numericGrade = 20;
-    char letterGrade = ' ';
+    char letterGrade = " ";
     
     switch (numericGrade) {
         case 90: {
